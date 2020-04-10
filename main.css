@@ -1,0 +1,14 @@
+* {
+}
+img {
+    justify-content: right;
+    width: 20%;
+    border-radius: 7%;
+}
+.representative {
+    display: flex;
+    flex-flow: row wrap;
+}
+.text {
+    width: 45%;
+}
